@@ -260,3 +260,12 @@ Ans: Axios is a tool to communicate the front end to the servers.
 
 Axios is a library that lets developers make requests to either their own or a third-party server to fetch data.
 */
+/*
+What are the common problems faced when you make network calls and what should you do to solve it?
+
+Ans: Common mistakes are the wrong URL, Endpoint expires, and payload 415 error. may be due to "stringify", mismatch match object names, and others.
+
+what to do?
+
+where we are working with network calls always keep open the network tab, check the base URL, and route. check to whether its working in postman or not, if not then check your code and URL.
+*/
